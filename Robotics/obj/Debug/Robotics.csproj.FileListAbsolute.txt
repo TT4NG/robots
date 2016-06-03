@@ -1,0 +1,12 @@
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.exe.config
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.exe
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.csprojResolveAssemblyReference.cache
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.exe
+C:\Users\T4NG1\Documents\Visual Studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.pdb
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\bin\Debug\Robotics.exe.config
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\obj\Debug\Robotics.exe
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\obj\Debug\Robotics.pdb
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\bin\Debug\Robotics.exe
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\T4NG1\Desktop\DevCodeCam\Robotics\Robotics\obj\Debug\Robotics.csprojResolveAssemblyReference.cache
